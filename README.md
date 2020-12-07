@@ -9,10 +9,11 @@ The naive model score had the highest balanced accuracy score at 0.7856360112968
 
 Which model had the best recall score?
 
-The naive random oversampling had the highest score at .86
+The nsmote oversampling had the highest score at .86
 
 Which model had the best geometric mean score?
 
+THe smote oversampling : .79
 
 
 
